@@ -1,0 +1,18 @@
+server:
+  port: 8765
+
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.1.82:3306/biz_shopcomment?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true
+    username: yc_readwrite
+    password: pwd@yc.com
+
+mybatis:
+    type-aliases-package: package com.yryc.codegen.mapper
+    mapper-locations: classpath:mapper/*.xml
+    #配置驼峰下划线
+    configuration:
+      map-underscore-to-camel-case: true
+      log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
