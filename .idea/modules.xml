@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/delete/delete.iml" filepath="$PROJECT_DIR$/delete/delete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tk-mybatis/mapper.iml" filepath="$PROJECT_DIR$/tk-mybatis/mapper.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mybatisPractice.iml" filepath="$PROJECT_DIR$/.idea/mybatisPractice.iml" />
     </modules>
   </component>

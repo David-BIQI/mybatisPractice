@@ -1,4 +1,4 @@
-package yryc.logic.delete;
+package com.delete;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

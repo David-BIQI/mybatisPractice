@@ -1,4 +1,4 @@
-package yryc.logic.delete;
+package com.delete;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
