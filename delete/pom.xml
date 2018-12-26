@@ -59,6 +59,11 @@
             <artifactId>mapper</artifactId>
             <version>3.4.123</version>
         </dependency>
+        <dependency>
+            <groupId>com.biqi</groupId>
+            <artifactId>common</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
 
         <!--swagger 文档注释-->
         <dependency>

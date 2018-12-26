@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/tk-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/delete/pom.xml" />
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
       </list>
     </option>
   </component>
